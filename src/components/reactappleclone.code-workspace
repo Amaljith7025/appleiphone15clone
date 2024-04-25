@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "reactappleclone",
+			"path": "../.."
+		},
+		{
+			"name": "public",
+			"path": "../../../../Downloads/public"
+		}
+	],
+	"settings": {}
+}
